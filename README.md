@@ -1,2 +1,2 @@
-# k2-lede-ssr
-k2路由器lede17.01.4编译固件（内含SSR）
+# k2-pandorabox-drcom-ssr
+k2路由器pandorabox固件（内含Dr.com、SSR）
